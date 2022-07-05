@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ZSBRybnik/frontend
+	branch = master
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ZSBRybnik/backend
+	branch = master
