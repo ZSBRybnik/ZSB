@@ -1,13 +1,11 @@
 {
-<<<<<<< HEAD
-  "cSpell.words": ["openapi", "sonarjs", "Subpage", "trpc", "zustand", "Devnet", "solana",]
-=======
   "cSpell.words": [
-    "Devnet",
-    "solana",
+    "openapi",
+    "sonarjs",
     "Subpage",
-    "TRPC",
-    "zustand"
+    "trpc",
+    "zustand",
+    "Devnet",
+    "solana"
   ]
->>>>>>> a98d707df50b455acf8c5ae303de521c5352b42e
 }
