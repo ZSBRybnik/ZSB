@@ -8,6 +8,7 @@
     "napi",
     "openapi",
     "otplib",
+    "Pulumi",
     "qrcode",
     "snyk",
     "solana",
