@@ -6,3 +6,7 @@
 	path = backend
 	url = https://github.com/ZSBRybnik/backend
 	branch = master
+[submodule "extension"]
+	path = extension
+	url = https://github.com/ZSBRybnik/extension
+	branch = master
