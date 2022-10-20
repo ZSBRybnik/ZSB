@@ -1,5 +1,7 @@
 # ZSB
 
+The most advanced technologically and well-done web + mobile + desktop application of all schools in Poland. The application is dedicated to ZSB Rybnik.
+
 ## Mirrors
 
 ### GitLab
