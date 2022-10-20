@@ -10,3 +10,7 @@
 	path = extension
 	url = https://github.com/ZSBRybnik/extension
 	branch = master
+[submodule "argo-cd"]
+	path = argo-cd
+	url = https://github.com/ZSBRybnik/argo-cd
+	branch = master
