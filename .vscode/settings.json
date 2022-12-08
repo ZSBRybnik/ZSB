@@ -25,5 +25,8 @@
     "Zawisla",
     "zsbrybnik",
     "zustand"
-  ]
+  ],
+  "files.exclude": {
+    "**/backend/documentation/src": true
+  }
 }
