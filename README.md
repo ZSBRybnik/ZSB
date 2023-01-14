@@ -27,3 +27,5 @@ The most advanced technologically and well-done web + mobile + desktop applicati
 VS Code
 
 ### Addons
+
+If you can find <kbd>ESC</kbd>, pressing that will fire missiles :rocket:
