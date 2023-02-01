@@ -2,6 +2,8 @@
 
 The most advanced technologically and well-done web + mobile + desktop application of all schools in Poland. The application is dedicated to ZSB Rybnik.
 
+![Alt](https://repobeats.axiom.co/api/embed/1023f662b94e214fb6649bd7abcaa5465514f557.svg "Repobeats analytics image")
+
 ## Mirrors
 
 ### GitLab
