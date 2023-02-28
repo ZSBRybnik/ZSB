@@ -1,0 +1,65 @@
+{
+	"folders": [{
+			"name": "ZSB",
+			"path": "."
+		},
+		{
+			"name": "extension",
+			"path": "extension"
+		},
+		{
+			"name": "backend",
+			"path": "backend"
+		},
+		{
+			"name": "wasm-go",
+			"path": "backend/source/wasm-go"
+		},
+		{
+			"name": "wasm-go",
+			"path": "frontend/source/wasm-go"
+		},
+		{
+			"name": "native-addon-zig",
+			"path": "frontend/source/native-addon-zig"
+		},
+		{
+			"name": "native-addon-zig",
+			"path": "backend/source/native-addon-zig"
+		},
+		{
+			"name": "native-addon-rust",
+			"path": "frontend/source/native-addon-rust"
+		},
+		{
+			"name": "native-addon-go",
+			"path": "backend/source/native-addon-go"
+		},
+		{
+			"name": "native-addon-go",
+			"path": "frontend/source/native-addon-go"
+		},
+		{
+			"name": "native-addon-rust",
+			"path": "backend/source/native-addon-rust"
+		},
+		{
+			"name": "frontend",
+			"path": "frontend"
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"ZSB",
+			"extension",
+			"wasm-go",
+			"wasm-go",
+			"native-addon-zig",
+			"native-addon-zig",
+			"native-addon-rust",
+			"native-addon-go",
+			"native-addon-go",
+			"native-addon-rust"
+		]
+	}
+}
