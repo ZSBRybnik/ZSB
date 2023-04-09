@@ -108,6 +108,7 @@
     "redhat.vscode-xml",
     "dotjoshjohnson.xml",
     "redhat.vscode-yaml",
-    "tiehuis.zig"
+    "tiehuis.zig",
+    "TabbyML.vscode-tabby"
   ]
 }
