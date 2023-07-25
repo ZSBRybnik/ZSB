@@ -4,6 +4,12 @@ The most advanced technologically and well-done web + mobile + desktop applicati
 
 ![Alt](https://repobeats.axiom.co/api/embed/1023f662b94e214fb6649bd7abcaa5465514f557.svg "Repobeats analytics image")
 
+## Setup
+
+```sh
+git submodule update --init --recursive
+```
+
 ## Mirrors
 
 ### GitLab
