@@ -1,0 +1,10 @@
+backend/node_modules/
+backend/destination/
+backend/.dockerignore
+backend/.git/
+backend/bundle-analyzes/
+frontend/node_modules/
+frontend/destination/
+frontend/.dockerignore
+frontend/.git/
+frontend/bundle-analyzes/
